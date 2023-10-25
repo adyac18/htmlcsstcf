@@ -1,0 +1,23 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    background-color: #f4f4f4;
+}
+
+.business-card {
+    width: 400px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+h1{
+    color: grey;
+}
+
+img {
+    width: 80px;
+}
